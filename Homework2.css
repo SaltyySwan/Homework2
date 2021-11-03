@@ -1,0 +1,104 @@
+body.main_body{
+    background-color:rgb(231, 230, 230);
+}
+
+div.fig{
+
+    float: left;
+    width: 300px;
+    height: fit-content;
+    text-align: center;
+    font-size: 18px;
+    font-family: Helvetica;
+    border-right: 1px solid black ;
+
+    
+    background: linear-gradient(0deg, rgb(231, 230, 230) , rgba(173, 216, 230, 0.708) 87%) no-repeat;
+    
+    
+}
+
+img.profile{
+
+    
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+
+}
+
+p.Name{
+    height: 0px;
+    font-size: 30px;
+}
+
+
+div.Nav{
+    
+    width: fit-content;
+    height: 52px;
+    position: relative;
+    left: 550px;
+    display: inline-block;
+    font-size: 25px;
+    border-bottom:2px solid blue;
+}
+
+
+
+
+div.Biod{
+
+    width: fit-content;
+    height: fit-content;
+    position:relative;
+    display: inline-block;
+    left: 140px;
+
+    text-align: center;
+    font-size: 22px;
+    font-family: Helvetica;
+    
+}
+
+div.Skills{
+
+    width: fit-content;
+    height: fit-content;
+    position: relative;
+    display: inline-block;
+    left: 140px;    
+
+    text-align: center;
+    font-size: 22px;
+    font-family: Helvetica;
+
+}
+
+p.languages{
+    text-align: left;
+}
+
+ul.list{
+    text-align: left;
+}
+ul.list1{
+    text-align: left;
+}
+
+div.Exp{
+
+    width: fit-content;
+    height: fit-content;
+    position: relative;
+    display: inline-block;
+    left: 500px;
+
+    text-align: center;
+    font-size: 22px;
+    font-family: Helvetica;
+}
+th{
+    border-bottom: 1px solid black;
+    text-transform: uppercase;
+}
